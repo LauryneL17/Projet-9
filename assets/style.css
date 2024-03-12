@@ -84,7 +84,7 @@ p.about-me__introduction {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
+  color: #121212;
   background-color: #beb45a;
   border-radius: 0;
 }
